@@ -4,5 +4,5 @@
 @section('encabezado', 'Inicio')
 
 @section('contenido')
-    <p>¡Hola! Esta es la vista principal conectada a nuestro layout base.</p>
+    <p>¡Hola mundo itcaaaaa.</p>
 @endsection
